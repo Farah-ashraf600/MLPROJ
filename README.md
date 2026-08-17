@@ -12,7 +12,7 @@
 
 👉 **[Open the App on Streamlit Cloud](https://mlproj-qoqycfzqv7qwnsta8xcuqb.streamlit.app/)**
 📹 **[Video Walkthrough](https://drive.google.com/file/d/1FpzhKSLhhoTmNeGHlduCnnRONJlmV-Ha/view?usp=sharing)**
-💻 **[GitHub Repository](https://github.com/MalakGamalEleza/MLPROJ)**
+💻 **[GitHub Repository](https://github.com/Farah-ashraf600/MLPROJ/tree/main)**
 
 ---
 
