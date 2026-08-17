@@ -113,19 +113,22 @@ st.markdown("""
 # =====================================
 import os
 
+# =====================================
+# LOAD MODEL, SCALER, & FEATURES
+# =====================================
 @st.cache_resource
 def load_artifacts():
     try:
-        # Resolves path relative to current app.py file directory
         BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-        
         model = joblib.load(os.path.join(BASE_DIR, "best_model.pkl"))
         scaler = joblib.load(os.path.join(BASE_DIR, "scaler.pkl"))
         features = joblib.load(os.path.join(BASE_DIR, "selected_features.pkl"))
         return model, scaler, features, True
     except Exception as e:
-        st.error(f"Error loading artifacts: {e}")
         return None, None, None, False
+
+# Ensure this line is present and NOT indented
+model, scaler, selected_features, model_loaded = load_artifacts()
 
 # =====================================
 # HEADER
