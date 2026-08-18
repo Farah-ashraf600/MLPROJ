@@ -11,7 +11,7 @@
 ## 🔗 Live Application
 
 👉 **[Open the App on Streamlit Cloud](https://mlproj-qoqycfzqv7qwnsta8xcuqb.streamlit.app/)**
-📹 **[Video Walkthrough](https://drive.google.com/file/d/1FpzhKSLhhoTmNeGHlduCnnRONJlmV-Ha/view?usp=sharing)**
+📹 **[Video Walkthrough](https://drive.google.com/file/d/1CyHmrVJqsk0QKeQk0vFJAqBYxL41sjjr/view?usp=drivesdk)**
 💻 **[GitHub Repository](https://github.com/Farah-ashraf600/MLPROJ)**
 
 ---
